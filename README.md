@@ -1,2 +1,2 @@
-# ronmintz.github.io
-<a href="https://github.com/ronmintz/eye-movement-exercise/tree/master/week8/two-eyes">Eye Movement Exercise</a>
+# Ron's Portfolio
+<a href="https://github.com/ronmintz/Eye-Exercise">Eye Movement Exercise</a>
