@@ -1,6 +1,6 @@
 # Ron's Portfolio
 <br>
-<a href="bio.html">Ron's Bio</a>
+<a href="bio.html">My Bio</a>
 <br>
 <a href="https://github.com/ronmintz/Eye-Exercise">Eye Movement Exercise</a>
 <br>
