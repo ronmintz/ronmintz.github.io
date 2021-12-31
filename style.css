@@ -14,8 +14,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
-  height: 70%;
+  width: 60%;
+  height: 60% auto;
 }
 
 .project {
