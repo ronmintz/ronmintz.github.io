@@ -10,6 +10,11 @@ a {
     font-size: 180%;
 }
 
+img {
+  width: 70%;
+  height: 70%;
+}
+
 .project {
     color: darkgreen;
     font-family:'Times New Roman', Times, serif;
