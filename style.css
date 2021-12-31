@@ -16,6 +16,19 @@ a {
     font-size: 150%;
 }
 
+.content {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 5px;
+}
+
+div {
+    background: yellow;
+    padding: 20px;
+    text-align: left;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
