@@ -27,6 +27,7 @@ div {
     background: lightyellow;
     padding: 20px;
     text-align: left;
+    border: solid black;
 }
 
 ul {
