@@ -60,6 +60,7 @@ li {
 li a {
   display: block;
   color: white;
+  background-color: gray;
   text-align: center;
   padding: 18px 16px;
   text-decoration: none;
