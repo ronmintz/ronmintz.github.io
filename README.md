@@ -1,13 +1,5 @@
 # Ron's Portfolio
 <br>
-<a href="bio.html">My Bio</a>
-<br>
-<a href="https://github.com/ronmintz/Eye-Exercise">Eye Movement Exercise</a>
-<br>
-<a href="https://github.com/ronmintz/Pacmen-Factory-Exercise">Pacmen Factory Exercise</a>
-<br>
-<a href="https://github.com/ronmintz/Real-Time-Bus-Tracker">Real Time Bus Tracker Exercise</a>
-
 MIT License
 
 Copyright (c) 2022 Ronald Mintz
@@ -29,4 +21,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+<br>
+<a href="bio.html">My Bio</a>
+<br>
+<a href="https://github.com/ronmintz/Eye-Exercise">Eye Movement Exercise</a>
+<br>
+<a href="https://github.com/ronmintz/Pacmen-Factory-Exercise">Pacmen Factory Exercise</a>
+<br>
+<a href="https://github.com/ronmintz/Real-Time-Bus-Tracker">Real Time Bus Tracker Exercise</a>
