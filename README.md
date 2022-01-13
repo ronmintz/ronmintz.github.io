@@ -1,7 +1,6 @@
 # Ron's Portfolio
 
-MIT License
-
+MIT License<br>
 Copyright (c) 2022 Ronald Mintz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
