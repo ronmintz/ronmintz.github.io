@@ -1,5 +1,5 @@
 # Ron's Portfolio
-<br>
+
 MIT License
 
 Copyright (c) 2022 Ronald Mintz
